@@ -54,7 +54,7 @@ JavaScript (ES6+)
 
 Clone the repository
 
-git clone https://github.com/mohmadhusenkhimani/JavaScript-Level-1-Projects-1-5
+git clone [https://github.com/mohmadhusenkhimani/JavaScript-Level-1-Projects-1-5](https://github.com/mohmadhusenkhimani/JavaScript-Level-1-Projects-1-5-.git)
 
 
 Open any project folder
